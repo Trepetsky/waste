@@ -15,13 +15,13 @@
 
     Python 3.6 и выше,
 
-    Numpy
+    Numpy,
 
-    Scipy
+    Scipy,
 
-    Pandas
+    Pandas,
 
-    xlrd
+    xlrd,
 
-    Geneticalgorithm2
+    Geneticalgorithm2.
 
