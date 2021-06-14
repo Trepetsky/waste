@@ -136,4 +136,3 @@ for i in range(number + 3):
     excel[2][i] = float(excel[2][i])
 excel.columns = ["Название", "Объём", "Масса"]
 excel.to_excel(f'{name_file_excel}.xlsx')
-ccc = pd.read_excel(f'{name_file_excel}.xlsx')
