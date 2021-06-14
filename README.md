@@ -13,8 +13,14 @@
 
 Зависимости:
     Python 3.6 и выше,
+
     Numpy
+
     Scipy
+
     Pandas
+
     xlrd
+
     Geneticalgorithm2
+
